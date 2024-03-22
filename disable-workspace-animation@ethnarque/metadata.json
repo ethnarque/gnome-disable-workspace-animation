@@ -1,9 +1,10 @@
 {
   "name": "Disable Workspace Animation",
-  "description": "GNOME Shell 45 extension that disables the workspace animation when switching between workspaces",
+  "description": "GNOME Shell 46 extension that disables the workspace animation when switching between workspaces",
   "url": "https://github.com/ethnarque/gnome-disable-workspace-animation",
   "uuid": "disable-workspace-animation@ethnarque",
   "shell-version": [
-    "45"
+    "45",
+    "46"
   ]
 }
